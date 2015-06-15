@@ -1,0 +1,37 @@
+body{
+	background-color: orange;
+}
+#popup{
+	width: 350px;
+	height: 300px;
+	background-color: #fff;
+	position: absolute;
+	top: 20%;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	margin: 0 auto;
+	visibility: hidden;
+}
+#title{
+	width: 340px;
+	height: 50px;
+	margin-left: 10px;
+}
+#line{
+	width: 330px;
+	height: 1px;
+	background-color: gray;
+	margin-left: 10px;
+}
+#exit{
+	width: 30px;
+	height: 30px;
+	background-color: #fff;
+	float: right;
+}
+#content{
+	width: 330px;
+	height: 249px;
+	margin-left: 10px;
+}
